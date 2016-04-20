@@ -8,7 +8,6 @@ function fizzbuzz()
 
 				console.log("FizzBuzz");
 			}
-
 		else if(x % 3 == 0)
 		{
 			console.log("Fizz");
